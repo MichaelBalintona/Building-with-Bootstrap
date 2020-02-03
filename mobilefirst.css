@@ -1,0 +1,43 @@
+
+  
+#box1{
+  text-align:center;
+}
+
+p{
+  word-wrap: break-word
+}
+
+.container{
+  padding: 7em;
+}
+
+footer{
+  padding:0 7em 0 7em;
+  
+}
+
+#box2{
+  text-align:center;
+}
+
+#extralinks{
+  text-align:center;
+  padding:3em;
+}
+
+#copyright{
+  padding-top: 1em;
+}
+
+.container{
+  max-width:100%;
+}
+
+li{
+  padding:.5em;
+}
+
+h2{
+  text-align:center;
+}
